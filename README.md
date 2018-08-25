@@ -1,0 +1,3 @@
+# Grain
+
+Minimal structural styles
