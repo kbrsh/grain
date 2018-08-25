@@ -16,7 +16,7 @@ body {
 	padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6, p, a, ul, ol, img, video, input, textarea, button {
+h1, h2, h3, h4, h5, h6, p, a, ul, ol, code, pre code, img, video, input, textarea, button {
 	margin-top: 0;
 	margin-bottom: 17px;
 }
@@ -86,11 +86,21 @@ a {
 	text-decoration: none;
 }
 
+code {
+	white-space: nowrap;
+}
+
+pre code {
+	display: block;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
 .action {
 	border: 1px solid #B0B0B0;
 }
 
-.action-main, button, input, textarea {
+.action-main, code, pre code, button, input, textarea {
 	background: #E3E3E3;
 	border: 1px solid #B0B0B0;
 	border-radius: 3px;
