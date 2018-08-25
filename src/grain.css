@@ -83,6 +83,7 @@ p {
 a {
 	color: #006394;
 	border-bottom: 1px solid #006394;
+	text-decoration: none;
 }
 
 .action {
