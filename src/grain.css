@@ -87,10 +87,6 @@ pre code {
 	word-wrap: break-word;
 }
 
-.action, .action-main, .action-red, .action-yellow, .action-green, .action-blue, div, code, pre code, button, input, textarea {
-	padding: 17px;
-}
-
 .action {
 	border: 1px solid #B0B0B0;
 }
