@@ -87,10 +87,6 @@ pre code {
 	word-wrap: break-word;
 }
 
-.action, .action-main, .action-red, .action-yellow, .action-green, .action-blue {
-	box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 7px 3px;
-}
-
 .action {
 	border: 1px solid #B0B0B0;
 }
