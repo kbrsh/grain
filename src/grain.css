@@ -36,19 +36,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 43.60779px;
+	font-size: 43.6078px;
 }
 
 h2 {
-	font-size: 37.27162px;
+	font-size: 37.2716px;
 }
 
 h3 {
-	font-size: 31.85608257px;
+	font-size: 31.8561px;
 }
 
 h4 {
-	font-size: 23.2713px;
+	font-size: 27.2274px;
 }
 
 h5 {
@@ -75,7 +75,7 @@ a {
 }
 
 .a-m-f-2 {
-	color: hsl(0, 0%, 88.75%);
+	color: hsl(0, 0%, 88.2094776%);
 }
 
 .a-m-f-3 {
@@ -87,7 +87,7 @@ a {
 }
 
 .a-m-b-2 {
-	background-color: hsl(0, 0%, 88.75%);
+	background-color: hsl(0, 0%, 88.2094776%);
 }
 
 .a-m-b-3 {
@@ -99,7 +99,7 @@ a {
 }
 
 .a-r-f-2 {
-	color: hsl(0, 100%, 88.75%);
+	color: hsl(0, 100%, 88.2094776%);
 }
 
 .a-r-f-3 {
@@ -111,7 +111,7 @@ a {
 }
 
 .a-r-b-2 {
-	background-color: hsl(0, 100%, 88.75%);
+	background-color: hsl(0, 100%, 88.2094776%);
 }
 
 .a-r-b-3 {
@@ -123,7 +123,7 @@ a {
 }
 
 .a-y-f-2 {
-	color: hsl(50, 100%, 88.75%);
+	color: hsl(50, 100%, 88.2094776%);
 }
 
 .a-y-f-3 {
@@ -135,7 +135,7 @@ a {
 }
 
 .a-y-b-2 {
-	background-color: hsl(50, 100%, 88.75%);
+	background-color: hsl(50, 100%, 88.2094776%);
 }
 
 .a-y-b-3 {
@@ -147,7 +147,7 @@ a {
 }
 
 .a-g-f-2 {
-	color: hsl(150, 100%, 88.75%);
+	color: hsl(150, 100%, 88.2094776%);
 }
 
 .a-g-f-3 {
@@ -159,7 +159,7 @@ a {
 }
 
 .a-g-b-2 {
-	background-color: hsl(150, 100%, 88.75%);
+	background-color: hsl(150, 100%, 88.2094776%);
 }
 
 .a-g-b-3 {
@@ -171,7 +171,7 @@ a {
 }
 
 .a-b-f-2 {
-	color: hsl(200, 100%, 88.75%);
+	color: hsl(200, 100%, 88.2094776%);
 }
 
 .a-b-f-3 {
@@ -183,7 +183,7 @@ a {
 }
 
 .a-b-b-2 {
-	background-color: hsl(200, 100%, 88.75%);
+	background-color: hsl(200, 100%, 88.2094776%);
 }
 
 .a-b-b-3 {
