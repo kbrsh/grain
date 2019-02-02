@@ -6,6 +6,7 @@ html, body {
 	margin: 0;
 	background: hsl(0, 0%, 99.1%);
 	color: hsl(0, 0%, 10%);
+	font-size: 19.89px;
 }
 
 div {
