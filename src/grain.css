@@ -4,7 +4,7 @@
 
 html, body {
 	margin: 0;
-	background: hsl(0, 0%, 99.1%);
+	background: hsl(0, 0%, 100%);
 	color: hsl(0, 0%, 10%);
 	font-size: 19.89px;
 }
@@ -79,7 +79,7 @@ a {
 }
 
 .a-m-f-1 {
-	color: hsl(0, 0%, 99.1%);
+	color: hsl(0, 0%, 100%);
 }
 
 .a-m-f-2 {
@@ -91,7 +91,7 @@ a {
 }
 
 .a-m-b-1 {
-	background-color: hsl(0, 0%, 99.1%);
+	background-color: hsl(0, 0%, 100%);
 }
 
 .a-m-b-2 {
@@ -103,7 +103,7 @@ a {
 }
 
 .a-r-f-1 {
-	color: hsl(0, 100%, 99.1%);
+	color: hsl(0, 100%, 100%);
 }
 
 .a-r-f-2 {
@@ -115,7 +115,7 @@ a {
 }
 
 .a-r-b-1 {
-	background-color: hsl(0, 100%, 99.1%);
+	background-color: hsl(0, 100%, 100%);
 }
 
 .a-r-b-2 {
@@ -127,7 +127,7 @@ a {
 }
 
 .a-y-f-1 {
-	color: hsl(50, 100%, 99.1%);
+	color: hsl(50, 100%, 100%);
 }
 
 .a-y-f-2 {
@@ -139,7 +139,7 @@ a {
 }
 
 .a-y-b-1 {
-	background-color: hsl(50, 100%, 99.1%);
+	background-color: hsl(50, 100%, 100%);
 }
 
 .a-y-b-2 {
@@ -151,7 +151,7 @@ a {
 }
 
 .a-g-f-1 {
-	color: hsl(150, 100%, 99.1%);
+	color: hsl(150, 100%, 100%);
 }
 
 .a-g-f-2 {
@@ -163,7 +163,7 @@ a {
 }
 
 .a-g-b-1 {
-	background-color: hsl(150, 100%, 99.1%);
+	background-color: hsl(150, 100%, 100%);
 }
 
 .a-g-b-2 {
@@ -175,7 +175,7 @@ a {
 }
 
 .a-b-f-1 {
-	color: hsl(200, 100%, 99.1%);
+	color: hsl(200, 100%, 100%);
 }
 
 .a-b-f-2 {
@@ -187,7 +187,7 @@ a {
 }
 
 .a-b-b-1 {
-	background-color: hsl(200, 100%, 99.1%);
+	background-color: hsl(200, 100%, 100%);
 }
 
 .a-b-b-2 {
