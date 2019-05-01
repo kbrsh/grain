@@ -68,6 +68,10 @@ a {
 	text-decoration: none;
 }
 
+.container {
+	max-width: 700px;
+}
+
 .c-m-f-1 {
 	color: hsl(0, 0%, 100%);
 }
