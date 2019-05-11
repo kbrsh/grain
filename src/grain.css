@@ -64,3 +64,67 @@ a {
 	border-bottom: 1px solid hsl(200, 100%, 10%);
 	text-decoration: none;
 }
+
+.x-0 {
+	width: 7px;
+}
+
+.x-1 {
+	width: 11.9px;
+}
+
+.x-2 {
+	width: 20.23px;
+}
+
+.x-3 {
+	width: 34.391px;
+}
+
+.x-4 {
+	width: 58.4647px;
+}
+
+.x-5 {
+	width: 99.38999px;
+}
+
+.x-6 {
+	width: 168.962983px;
+}
+
+.x-7 {
+	width: 287.2370711px;
+}
+
+.s-0 {
+	padding: 7px;
+}
+
+.s-1 {
+	padding: 11.9px;
+}
+
+.s-2 {
+	padding: 20.23px;
+}
+
+.s-3 {
+	padding: 34.391px;
+}
+
+.s-4 {
+	padding: 58.4647px;
+}
+
+.s-5 {
+	padding: 99.38999px;
+}
+
+.s-6 {
+	padding: 168.962983px;
+}
+
+.s-7 {
+	padding: 287.2370711px;
+}
