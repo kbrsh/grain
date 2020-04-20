@@ -69,6 +69,7 @@ button, code, h5, input, pre, textarea {
 a {
 	color: hsl(206, 100%, 14%);
 	background-color: hsl(206, 100%, 96%);
+	padding: 3px;
 	border-radius: 3px;
 	text-decoration: none;
 }
