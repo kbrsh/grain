@@ -17,7 +17,7 @@ body, div {
 	flex-wrap: wrap;
 }
 
-html, body, button, code, div, h1, h2, h3, h4, h5, img, input, li, ol, p, pre, textarea, ul, video {
+html, body, button, code, details, div, h1, h2, h3, h4, h5, img, input, li, ol, p, pre, summary, textarea, ul, video {
 	max-width: 100%;
 	max-height: 100%;
 	margin: 0;
@@ -25,13 +25,31 @@ html, body, button, code, div, h1, h2, h3, h4, h5, img, input, li, ol, p, pre, t
 	border: none;
 }
 
-li {
+summary::-webkit-details-marker {
+	display: none
+}
+
+summary:before {
+	content: "\25B8";
+	display: inline-block;
+	width: 1em;
+}
+
+details[open] > summary:before {
+	content: "\25BE";
+}
+
+details > :not(summary), li {
 	margin-left: 1em;
 }
 
 pre code {
 	white-space: pre-wrap;
 	word-break: break-word;
+}
+
+:focus {
+	outline-color: hsl(0, 0%, 86%);
 }
 
 /* Typography */
@@ -67,14 +85,7 @@ button, code, h5, input, pre, textarea {
 }
 
 a {
-	color: hsl(206, 100%, 14%);
-	background-color: hsl(206, 100%, 94%);
-	padding-left: 3px;
-	padding-right: 3px;
-	padding-top: 1px;
-	padding-bottom: 1px;
-	border-radius: 3px;
-	text-decoration: none;
+	color: hsl(0, 0%, 14%);
 }
 
 /* Sizing */
