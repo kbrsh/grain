@@ -57,7 +57,7 @@ a {
 }
 
 :focus {
-	outline-color: hsl(0, 0%, 86%);
+	outline: 1px solid hsl(0, 0%, 86%);
 }
 
 /* Typography */
