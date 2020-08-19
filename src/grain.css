@@ -2,13 +2,10 @@
 	--grain-scale: 1;
 }
 
+/* Reset */
+
 * {
 	box-sizing: border-box;
-}
-
-html {
-	background-color: hsl(0, 0%, 100%);
-	color: hsl(0, 0%, 14%);
 }
 
 body, div {
@@ -48,6 +45,17 @@ pre code {
 	word-break: break-word;
 }
 
+/* Color */
+html {
+	background-color: hsl(0, 0%, 100%);
+	color: hsl(0, 0%, 14%);
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	color: hsl(0, 0%, 14%);
+}
+
 :focus {
 	outline-color: hsl(0, 0%, 86%);
 }
@@ -82,10 +90,6 @@ html, h4, p {
 
 button, code, h5, input, pre, textarea {
 	font-size: calc(10px * var(--grain-scale));
-}
-
-a {
-	color: hsl(0, 0%, 14%);
 }
 
 /* Sizing */
